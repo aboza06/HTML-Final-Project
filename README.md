@@ -1,5 +1,5 @@
-# HTML Final Project
-
+# HTML Project Showcase
+ 
 ## Project Overview
 This project showcases my top 3 favorite video games of all time. It is designed as a simple HTML website to demonstrate my skills in HTML and web development.
 
